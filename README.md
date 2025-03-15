@@ -1,6 +1,6 @@
 # Skin Lesion Detection using Dual Modalities of Image and Meta Data
 
-### ** Our cutting-edge skin cancer detection algorithm ranks 35th on Kaggle 🏆, achieving 98% accuracy / 0.165 AUC-20% with advanced volumetric segmentation and multimodal data integration! **
+### Our cutting-edge skin cancer detection algorithm ranks 35th on Kaggle 🏆, achieving 98% accuracy / 0.165 AUC-20% with advanced volumetric segmentation and multimodal data integration!
 
 This repository contains the implementation of various machine learning and deep learning techniques for the detection of skin cancer using 3D Total Body Photography (TBP). The project leverages multiple data modalities and architectures to enhance the detection accuracy and robustness.
 
